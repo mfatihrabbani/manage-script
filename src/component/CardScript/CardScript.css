@@ -1,0 +1,13 @@
+.card-script{
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    border-color: #e4e6eb;
+    margin: 10px 0px;
+}
+
+.card-script button{
+    height: 50%;
+}

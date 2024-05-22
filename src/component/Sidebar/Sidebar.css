@@ -1,0 +1,19 @@
+.sidebar{
+    padding: 20px 30px 20px 20px;
+    border-right: 0.1px solid white;
+    height: 130%;
+    margin-right: 50px;
+    width: 250px
+}
+
+.sidebar-item{
+    width: 100%;
+    padding: 10px 0px 10px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.sidebar-item:hover{
+    background-color: #384a63;
+    color: wheat;
+}

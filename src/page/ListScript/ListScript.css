@@ -1,0 +1,30 @@
+table{
+    width: 90%;
+    /* border: none;     */
+    border-spacing: 0 10px;
+    border-collapse: separate;
+}
+
+th {
+    padding-right: 50px;
+    text-align: start;
+    padding: 30px 20px;
+}
+
+td{
+    /* border: solid 1px #000; */
+    /* border-style: none solid solid none; */
+    padding: 20px;
+}
+
+.option{
+    display: flex;
+    align-items: center;
+}
+
+
+tr {
+    color: #f5f6f7;
+    background-color: #58595c;
+    border-radius: 10px;
+}
